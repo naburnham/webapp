@@ -1,0 +1,18 @@
+# Ignore Venv directory
+.venv/
+
+# Ignore pycache
+*.pyc
+__pycache__/
+
+# Ignore Instance folder
+instance/
+
+# Ignore Pytest and Coverage
+.pytest_cache/
+.coverage/
+htmlcov/
+
+dist/
+build/
+*.egg_info/
